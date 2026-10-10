@@ -112,13 +112,7 @@ El botón verde en la sección Inicio rápido.
 
 *rugged-crystal-828 · Actualizado 2026-10-10 · Compartido bajo licencia MIT*
 
-## Related topics
 
-- [one-click-duplicate-file-finder-tool](https://github.com/topics/one-click-duplicate-file-finder-tool)
-- [file-compare-tool-app](https://github.com/topics/file-compare-tool-app)
-- [pro-large-file-finder-helper](https://github.com/topics/pro-large-file-finder-helper)
-- [simple-disk-cloning-tool-2026](https://github.com/topics/simple-disk-cloning-tool-2026)
-- [how-to-system-backup-tool-windows-11](https://github.com/topics/how-to-system-backup-tool-windows-11)
-- [open-source-photo-deduplicator-2026](https://github.com/topics/open-source-photo-deduplicator-2026)
-- [simple-data-recovery-tool-for-windows](https://github.com/topics/simple-data-recovery-tool-for-windows)
-- [free-sd-card-formatter-software](https://github.com/topics/free-sd-card-formatter-software)
+## Related pages
+
+[open-source-photo-deduplicator-2026](https://github.com/topics/open-source-photo-deduplicator-2026) → [free-sd-card-formatter-software](https://github.com/topics/free-sd-card-formatter-software) → [pro-large-file-finder-helper](https://github.com/topics/pro-large-file-finder-helper) → [one-click-duplicate-file-finder-tool](https://github.com/topics/one-click-duplicate-file-finder-tool) → [simple-data-recovery-tool-for-windows](https://github.com/topics/simple-data-recovery-tool-for-windows) → [simple-disk-cloning-tool-2026](https://github.com/topics/simple-disk-cloning-tool-2026) → [how-to-system-backup-tool-windows-11](https://github.com/topics/how-to-system-backup-tool-windows-11) → [file-compare-tool-app](https://github.com/topics/file-compare-tool-app)
